@@ -11,7 +11,7 @@ This portfolio project develops an Enterprise Digital Transformation Framework f
 
 The project demonstrates how business analysis, digital transformation concepts, and data visualisation can be combined to support organisational decision-making.
 
-**What I Built**
+**What I built**
 
 Enterprise digital transformation framework
 Power BI business intelligence dashboard
